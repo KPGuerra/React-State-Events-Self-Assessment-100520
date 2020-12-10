@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import YesNoBox from './Components/YesNoBox'
+
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <YesNoBox />
   </React.StrictMode>,
   document.getElementById('root')
 );

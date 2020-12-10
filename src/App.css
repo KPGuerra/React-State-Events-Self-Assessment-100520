@@ -16,7 +16,7 @@ background-color: bisque;
 }
 
 .display{
-  max-width: 50vw;
+  max-width: 100vw;
   max-height: 100%;
   text-align-last: center;
   display: flex;
